@@ -1,3 +1,11 @@
+--[[
+This script has been discontinued, and is no longer in use;
+With that said, I've released the source to the script that I have made
+
+I don't care what you do with it, however if you sell this, then you're a fagget
+
+Enjoy!
+]]
 local HM = 5602055394
 local HMV = 7951883376
 
